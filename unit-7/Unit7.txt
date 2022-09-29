@@ -1,0 +1,13 @@
+Lesson-30 working with socket io
+using socket.io
+creating a chatbox
+connectiing the server and client 
+
+lesson-31 . saving chat messages 
+conecting messages to users 
+displaying user names in chat
+creating a messages model
+
+lessson-32 ; adding a chat notification indicator
+broadcasting to other sockets
+creating a chat indicator in navigation
